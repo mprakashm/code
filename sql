@@ -21,3 +21,4 @@ ELSE commission_pct*salary
 END commission
  from employees
 where 1=1
+
